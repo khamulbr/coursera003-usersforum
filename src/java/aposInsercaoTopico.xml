@@ -1,0 +1,17 @@
+<dataset>
+	<USUARIO LOGIN="adias" NOME="Alessandro" EMAIL="alessandro@dias.br" SENHA="12" PONTOS="54"/>
+        <USUARIO LOGIN="jose" NOME="Jose Dias" EMAIL="jose@dias.br" SENHA="XXXX" PONTOS="0"/>
+        <USUARIO LOGIN="maria" NOME="Maria Dias" EMAIL="maria@dias.br" SENHA="12" PONTOS="0"/>
+
+        <TOPICO ID_TOPICO="1" TITULO="TÃ³pico de teste" CONTEUDO="Hooray" LOGIN="adias"/>
+        <TOPICO ID_TOPICO="2" TITULO="Mais um tÃ³pico" CONTEUDO="Puxa vida, mais um?" LOGIN="adias"/>
+        <TOPICO ID_TOPICO="3" TITULO="TÃ³pico pontuado !" CONTEUDO="serÃ¡?" LOGIN="adias"/>
+        <TOPICO ID_TOPICO="9" TITULO="Topico de teste novo" CONTEUDO="Agora vai" LOGIN="adias"/>
+
+        <COMENTARIO ID_COMENTARIO="1" COMENTARIO="ComentÃ¡rio 12" LOGIN="adias" ID_TOPICO="1"/>
+        <COMENTARIO ID_COMENTARIO="2" COMENTARIO="ComentÃ¡rio 1" LOGIN="adias" ID_TOPICO="1"/>
+        <COMENTARIO ID_COMENTARIO="3" COMENTARIO="ComentÃ¡rio pontuado" LOGIN="adias" ID_TOPICO="3"/>
+        <COMENTARIO ID_COMENTARIO="4" COMENTARIO="mais um teste" LOGIN="adias" ID_TOPICO="3"/>
+        <COMENTARIO ID_COMENTARIO="5" COMENTARIO="teste" LOGIN="adias" ID_TOPICO="3"/>
+        <COMENTARIO ID_COMENTARIO="6" COMENTARIO="opa" LOGIN="adias" ID_TOPICO="1"/>
+</dataset>
